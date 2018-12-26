@@ -1,3 +1,4 @@
 # PythonLearning
-this repository is used to learn Python program
+this is my first github program.
+use this tool to manage my python program.
 
